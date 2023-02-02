@@ -552,6 +552,15 @@ button {
     font-size: 18px;
     padding: 20px;
 }
+.email-bw {
+     background: #ffffff;
+     border: none;
+     color: #000;
+     width: 50%;
+     height: 55px;
+     font-size: 18px;
+     padding: 20px;
+ }
 .massage-bt {
     background: #ffffff;
     border: none;
